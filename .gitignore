@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+done/
+img/
+mp-img/
+qt-box-editor/
+*.png
